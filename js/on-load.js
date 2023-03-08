@@ -28,8 +28,9 @@ window.onload = function() {
       }
    }
 
- 
+
 };
+
 
 
 function shopPageFunctional() {
@@ -81,7 +82,7 @@ function removeItem(e) {
       showEmptyMessage();
   }
 
- 
+
 }
 
 function showEmptyMessage() {
